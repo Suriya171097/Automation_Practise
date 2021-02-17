@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="401" started-at="2021-02-17T13:54:24 IST" finished-at="2021-02-17T13:54:24 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="401" started-at="2021-02-17T13:54:24 IST" finished-at="2021-02-17T13:54:24 IST">
+      <class name="com.testng.concepts.Invocation_Count">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.testng.concepts.Invocation_Count@5abca1e0]" name="browserLaunch" is-config="true" duration-ms="20" started-at="2021-02-17T13:54:24 IST" finished-at="2021-02-17T13:54:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:com.testng.concepts.Invocation_Count@5abca1e0]" name="refresh" duration-ms="20" started-at="2021-02-17T13:54:24 IST" finished-at="2021-02-17T13:54:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="url()[pri:0, instance:com.testng.concepts.Invocation_Count@5abca1e0]" name="url" is-config="true" duration-ms="2" started-at="2021-02-17T13:54:24 IST" finished-at="2021-02-17T13:54:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.testng.concepts.Invocation_Count@5abca1e0]" name="browserLaunch" is-config="true" duration-ms="7" started-at="2021-02-17T13:54:24 IST" finished-at="2021-02-17T13:54:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:com.testng.concepts.Invocation_Count@5abca1e0]" name="refresh" duration-ms="16" started-at="2021-02-17T13:54:24 IST" finished-at="2021-02-17T13:54:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="url()[pri:0, instance:com.testng.concepts.Invocation_Count@5abca1e0]" name="url" is-config="true" duration-ms="2" started-at="2021-02-17T13:54:24 IST" finished-at="2021-02-17T13:54:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+      </class> <!-- com.testng.concepts.Invocation_Count -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
